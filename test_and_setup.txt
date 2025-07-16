@@ -1,0 +1,12 @@
+curl http://localhost:11434/api/chat -d '{
+  "model": "llama3",
+  "messages": [
+    { "role": "user", "content": "why is the sky blue?" }
+  ]
+}'
+
+Step 1. ollama run llama3:instruct
+Step 2. vpn set global mode
+Step 3. conda activate whisper
+
+run: python app.py
