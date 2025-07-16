@@ -45,3 +45,9 @@ Checked more in [http://doc.aldebaran.com/2-5/family/pepper_technical/pepper_ver
 
 Terminal run path: `pepper_chat/app.py`
 Run command: `python app.py`
+
+# Acknowledgments
+
+I am deeply grateful to Professor Li Qiang for his insightful guidance, patient mentorship, and invaluable support throughout this project. His expertise and encouragement have not only enriched my learning experience but also inspired me to push beyond my limits. I would also like to extend my sincere appreciation to the Big Data and Internet College(Lab 905) at Shenzhen Technology University(SZTU) for providing the resources and infrastructure that made this work possible. 
+
+This journey has left an indelible mark on me. Though it began as a modest endeavor, the countless hours of independent exploration and problem-solving have instilled in me resilience and determination—qualities that will undoubtedly guide me through future challenges.
